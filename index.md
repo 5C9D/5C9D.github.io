@@ -12,6 +12,6 @@
     </td>
   </tr>
 </table>
-### 作业
+### 信号与系统实践环节
 ## [连续函数作业](https://github.com/5C9D/f_blog/tree/main/%E5%87%BD%E6%95%B0%E4%BD%9C%E4%B8%9A/%E8%BF%9E%E7%BB%AD%E5%87%BD%E6%95%B0)
 ## [离散函数作业](https://github.com/5C9D/f_blog/blob/main/%E5%87%BD%E6%95%B0%E4%BD%9C%E4%B8%9A/%E7%A6%BB%E6%95%A3.py)
