@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区首南街道学府路1号浙大宁波理工学院，邮编315100</b></p>
     </td>
     <td width="25%">
-      <img src="/C744A832D269EB7C565282FF893E832B.jpg" width="100%">      % 插入证件照代码
+      <img src="/C744A832D269EB7C565282FF893E832B.jpg" width="100%">
     </td>
   </tr>
 </table>
